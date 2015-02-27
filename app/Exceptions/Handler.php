@@ -1,4 +1,4 @@
-<?php namespace App\Exceptions;
+<?php namespace pruebaLaravel\Exceptions;
 
 use Exception;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
